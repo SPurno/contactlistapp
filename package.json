@@ -1,0 +1,19 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "Simple Web Based Contact Application",
+  "main": "server.js",
+  "dependencies": {
+    "air-datepicker": "^2.2.3",
+    "express": "^4.14.1",
+    "mysql": "^2.13.0",
+    "server-js": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Faruk Ahemed",
+  "license": "ISC"
+}
