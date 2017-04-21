@@ -15,9 +15,7 @@ console.log("Server running on port 3000");
 
 
 
-
-
-
+// this is another method to connect with server.
 // const http = require('http');
 
 // const hostname = '127.0.0.1';
